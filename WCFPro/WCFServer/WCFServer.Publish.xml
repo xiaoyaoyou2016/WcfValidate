@@ -1,0 +1,20 @@
+<publishData>
+  <publishTarget publishUrl="D:\项目发布\wcfFox\">
+    <file relUrl="Web.config" publishTime="09/19/2018 01:42:11" />
+    <file relUrl="bin/WCFServer.dll.config" publishTime="09/19/2018 01:42:11" />
+    <file relUrl="IUserCtrl.cs" publishTime="09/17/2018 21:01:34" />
+    <file relUrl="bin/WCFServer.dll" publishTime="09/19/2018 10:00:37" />
+    <file relUrl="WCFServer.csproj.user" publishTime="09/19/2018 01:46:23" />
+    <file relUrl="bin/WCFServer.pdb" publishTime="09/19/2018 10:00:37" />
+    <file relUrl="Properties/AssemblyInfo.cs" publishTime="09/17/2018 15:14:22" />
+    <file relUrl="UserCtrl.cs" publishTime="09/17/2018 21:01:41" />
+    <file relUrl="FoxCtrl.cs" publishTime="09/17/2018 21:07:30" />
+    <file relUrl="IFoxCtrl.cs" publishTime="09/17/2018 21:11:53" />
+    <file relUrl="App.config" publishTime="09/19/2018 01:42:11" />
+    <file relUrl="WCFServer.UserCtrl.svc" publishTime="09/19/2018 10:00:40" />
+    <file relUrl="MyX509Validator.cs" publishTime="09/19/2018 01:41:43" />
+    <file relUrl="WCFServer.csproj" publishTime="09/19/2018 01:41:43" />
+    <file relUrl="WCFServer.FoxCtrl.svc" publishTime="09/19/2018 10:00:40" />
+    <file relUrl="UserValidate.cs" publishTime="09/17/2018 20:57:45" />
+  </publishTarget>
+</publishData>

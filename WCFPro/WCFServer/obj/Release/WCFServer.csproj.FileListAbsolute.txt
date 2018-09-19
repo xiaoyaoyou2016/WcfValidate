@@ -1,0 +1,7 @@
+E:\wcfproject\WCFPro\WCFServer\bin\Release\WCFServer.dll.config
+E:\wcfproject\WCFPro\WCFServer\bin\Release\WCFServer.dll
+E:\wcfproject\WCFPro\WCFServer\bin\Release\WCFServer.pdb
+E:\wcfproject\WCFPro\WCFServer\obj\Release\WCFServer.csproj.CoreCompileInputs.cache
+E:\wcfproject\WCFPro\WCFServer\obj\Release\WCFServer.dll
+E:\wcfproject\WCFPro\WCFServer\obj\Release\WCFServer.pdb
+E:\wcfproject\WCFPro\WCFServer\obj\Release\WCFServer.csprojAssemblyReference.cache

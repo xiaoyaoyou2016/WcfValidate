@@ -1,0 +1,13 @@
+E:\wcfproject\WCFPro\WcfService\bin\WcfService.dll.config
+E:\wcfproject\WCFPro\WcfService\bin\WcfService.dll
+E:\wcfproject\WCFPro\WcfService\bin\WcfService.pdb
+E:\wcfproject\WCFPro\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+E:\wcfproject\WCFPro\WcfService\obj\Debug\WcfService.dll
+E:\wcfproject\WCFPro\WcfService\obj\Debug\WcfService.pdb
+E:\wcfproject\WCFPro\WcfService\obj\Debug\WcfService.csprojAssemblyReference.cache
+E:\GitSource\WcfValidate\WCFPro\WcfService\bin\WcfService.dll.config
+E:\GitSource\WcfValidate\WCFPro\WcfService\bin\WcfService.dll
+E:\GitSource\WcfValidate\WCFPro\WcfService\bin\WcfService.pdb
+E:\GitSource\WcfValidate\WCFPro\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+E:\GitSource\WcfValidate\WCFPro\WcfService\obj\Debug\WcfService.dll
+E:\GitSource\WcfValidate\WCFPro\WcfService\obj\Debug\WcfService.pdb

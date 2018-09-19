@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService", "WcfService\WcfService.csproj", "{6498386A-4EB6-4F16-8986-0ECAD19B87D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWeb", "TestWeb\TestWeb.csproj", "{28C456E4-CF89-4A22-917E-D61FF7025B8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServer", "WCFServer\WCFServer.csproj", "{424F7FAE-A9A1-4138-B213-E8D5DFB9CB47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6498386A-4EB6-4F16-8986-0ECAD19B87D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6498386A-4EB6-4F16-8986-0ECAD19B87D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6498386A-4EB6-4F16-8986-0ECAD19B87D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6498386A-4EB6-4F16-8986-0ECAD19B87D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C456E4-CF89-4A22-917E-D61FF7025B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C456E4-CF89-4A22-917E-D61FF7025B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C456E4-CF89-4A22-917E-D61FF7025B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C456E4-CF89-4A22-917E-D61FF7025B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{424F7FAE-A9A1-4138-B213-E8D5DFB9CB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424F7FAE-A9A1-4138-B213-E8D5DFB9CB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424F7FAE-A9A1-4138-B213-E8D5DFB9CB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424F7FAE-A9A1-4138-B213-E8D5DFB9CB47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0401DAE-9BF1-41B9-8D03-F7805E22F6B0}
+	EndGlobalSection
+EndGlobal

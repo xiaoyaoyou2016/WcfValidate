@@ -1,0 +1,6 @@
+E:\GitSource\WcfValidate\WCFPro\WCFServer\bin\Debug\WCFServer.dll.config
+E:\GitSource\WcfValidate\WCFPro\WCFServer\bin\Debug\WCFServer.dll
+E:\GitSource\WcfValidate\WCFPro\WCFServer\bin\Debug\WCFServer.pdb
+E:\GitSource\WcfValidate\WCFPro\WCFServer\obj\Debug\WCFServer.csprojResolveAssemblyReference.cache
+E:\GitSource\WcfValidate\WCFPro\WCFServer\obj\Debug\WCFServer.dll
+E:\GitSource\WcfValidate\WCFPro\WCFServer\obj\Debug\WCFServer.pdb

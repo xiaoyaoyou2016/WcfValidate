@@ -1,0 +1,12 @@
+E:\wcfproject\WCFPro\TestWeb\bin\TestWeb.dll.config
+E:\wcfproject\WCFPro\TestWeb\bin\TestWeb.dll
+E:\wcfproject\WCFPro\TestWeb\bin\TestWeb.pdb
+E:\wcfproject\WCFPro\TestWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\wcfproject\WCFPro\TestWeb\bin\Newtonsoft.Json.dll
+E:\wcfproject\WCFPro\TestWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\wcfproject\WCFPro\TestWeb\bin\Newtonsoft.Json.xml
+E:\wcfproject\WCFPro\TestWeb\obj\Release\TestWeb.csproj.CoreCompileInputs.cache
+E:\wcfproject\WCFPro\TestWeb\obj\Release\TestWeb.csproj.CopyComplete
+E:\wcfproject\WCFPro\TestWeb\obj\Release\TestWeb.dll
+E:\wcfproject\WCFPro\TestWeb\obj\Release\TestWeb.pdb
+E:\wcfproject\WCFPro\TestWeb\obj\Release\TestWeb.csprojAssemblyReference.cache
